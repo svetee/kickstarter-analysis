@@ -3,3 +3,5 @@ The data analysis was performed on kickstarter data to uncover trends. Show resu
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/60243906/99124385-26c25180-25a6-11eb-87ca-3de3793b2bd4.jpg)
 
+![Picture1](https://user-images.githubusercontent.com/60243906/99124545-7a349f80-25a6-11eb-821b-0ac94a1e0e46.jpg) 
+
