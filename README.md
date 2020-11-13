@@ -5,3 +5,5 @@ The data analysis was performed on kickstarter data to uncover trends. Show resu
 
 ![Picture1](https://user-images.githubusercontent.com/60243906/99124545-7a349f80-25a6-11eb-821b-0ac94a1e0e46.jpg) 
 
+![plot chart](https://user-images.githubusercontent.com/60243906/99124649-a9e3a780-25a6-11eb-9cdf-fc9e71040ded.jpg)
+
